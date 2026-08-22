@@ -27,7 +27,7 @@ Organizations and researchers need to stay on top of fast-moving research and ne
 pip install -r requirements.txt
 ```
 
-Set your Anthropic API key (get one at [console.anthropic.com](https://console.anthropic.com)):
+
 
 ```bash
 # Windows PowerShell
