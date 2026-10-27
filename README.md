@@ -1,6 +1,6 @@
 # 🔍 AI Insight Tracker
 
-An autonomous AI agent that tracks research papers and news for a chosen topic, summarizes them, and displays them in a live dashboard — built for [Hackathon Name].
+An autonomous AI agent that tracks research papers and news for a chosen topic, summarizes them, and displays them in a live dashboard 
 
 ## Problem it solves
 
